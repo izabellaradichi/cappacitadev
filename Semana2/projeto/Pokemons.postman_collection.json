@@ -1,0 +1,198 @@
+{
+	"info": {
+		"_postman_id": "fca6b3f9-68a4-421a-b905-da99112ce286",
+		"name": "Pokemons",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Mostrar um Pokemon",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3003/pokemons/2",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"pokemons",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mostrar todos os Pokemons",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3003/pokemons",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"pokemons"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Salvar um Pokemon",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "nome",
+							"value": "Squirtle",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "Água",
+							"type": "text"
+						},
+						{
+							"key": "fraqueza",
+							"value": "Grama",
+							"type": "text"
+						},
+						{
+							"key": "resistencia",
+							"value": "Fogo",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:3003/pokemons",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"pokemons"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Atualizar Pokemon",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "nome",
+							"value": "Raichu",
+							"type": "text"
+						},
+						{
+							"key": "tipo",
+							"value": "Elétrico",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:3003/pokemons/2",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"pokemons",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Deletar Pokemon",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "localhost:3003/pokemons/2",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"pokemons",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Batalha Pokemon",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "id1",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "id2",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "localhost:3003/batalha",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"batalha"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Curar Pokemon",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": []
+				},
+				"url": {
+					"raw": "localhost:3003/curar/1",
+					"host": [
+						"localhost"
+					],
+					"port": "3003",
+					"path": [
+						"curar",
+						"1"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
