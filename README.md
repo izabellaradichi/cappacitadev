@@ -68,7 +68,7 @@ Além das funções, criamos uma Collection no Postman com as requisições que 
 <h2>Módulo 4</h2>
 <h3>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h3>
 
-Neste módulo, iniciamos tendo contato com o MySql e estamos continuando a criação do Projeto dos Pokemons, agora com um banco de dados "de verdade".
+Neste módulo, iniciamos tendo contato com o MySql e demos continuidade ao Projeto dos Pokemons, agora com um banco de dados "de verdade".
 
 
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
