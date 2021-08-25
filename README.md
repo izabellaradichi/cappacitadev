@@ -49,7 +49,7 @@ A fase 3 está dividida desta forma:
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
-O projeto feito no decorrer das aulas e que foi finalizado com um desafio, teve como tema "Pokemons" e está nessa pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto">Projeto</a>.
+Parte do projeto foi feito no decorrer das aulas e no final houve um desafio, que está nesta pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto">Projeto Pokemon</a>.
 
 Criamos 06 funções:
 
