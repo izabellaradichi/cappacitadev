@@ -34,7 +34,7 @@ A fase 3 está dividida desta forma:
 
 📓 Esse repositório foi criado a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
 
-</h2>Módulo 3</h2> - Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)
+<h2>Módulo 3</h2> - <h3>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h3> <br><br>
 
 **SEMANA 1**
 
@@ -66,7 +66,7 @@ Além das funções, criamos uma Collection no Postman com as requisições que 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-</h2>Módulo 4</h2> - Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)
+<h2>Módulo 4</h2> - <h3>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h3>
 
 Neste módulo, iniciamos tendo contato com o MySql e estamos continuando a criação do Projeto dos Pokemons, agora com um banco de dados "de verdade".
 
