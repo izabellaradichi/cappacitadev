@@ -18,7 +18,7 @@ Instruções dadas, acesse o bot que criei clicando <a href="https://prime.altub
 
 Com esse resultado final e a conclusão do módulo 2,  fui aprovada para seguir no curso e agora estamos na fase 3: <b>TO HERO!</b> 🦸‍♀️
 
-<h3>Fase 3 - To Hero </h3>
+<h2>Fase 3 - To Hero </h2>
 
 Nesta fase teremos uma imersão na área de desenvolvimento de software e aprenderemos sobre integração entre sistemas web, criaremos uma API e teremos à nossa disposição um conteúdo de programação avançado.
 
@@ -35,7 +35,7 @@ A fase 3 está dividida desta forma:
 📓 Esse repositório foi criado a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
 
 <h2>Módulo 3</h2> 
-<h3>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h3> <br><br>
+<h3>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h3> <br>
 
 **SEMANA 1**
 
