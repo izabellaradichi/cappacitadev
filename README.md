@@ -22,7 +22,7 @@ Com esse resultado final e a conclusão do módulo 2,  fui aprovada para seguir 
 
 Nesta fase teremos uma imersão na área de desenvolvimento de software e aprenderemos sobre integração entre sistemas web, criaremos uma API e teremos à nossa disposição um conteúdo de programação avançado.
 
-Este módulo está dividido desta forma:
+A fase 3 está dividida desta forma:
 
 - <b>Módulo 3</b> - Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)
 
@@ -32,9 +32,9 @@ Este módulo está dividido desta forma:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📓 A criação desse repositório foi feita a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
+📓 Esse repositório foi criado a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
 
-Criei pastas para diferenciar cada etapa deste módulo 3.
+</h2>Módulo 3</h2> - Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)
 
 **SEMANA 1**
 
@@ -63,6 +63,13 @@ Criamos 06 funções:
 - curarPokemon: a criação dessa função foi o **desafio** da semana. Deveríamos construir uma nova rota para fazer uma requisição que curasse o pokemon, com poções de 20 HP (estabelecendo o limite de 100 HP, não podendo ultrapassar esse valor).
 
 Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana2/projeto/Pokemons.postman_collection.json">neste link</a>.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+</h2>Módulo 4</h2> - Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)
+
+Neste módulo, iniciamos tendo contato com o MySql e estamos continuando a criação do Projeto dos Pokemons, agora com um banco de dados "de verdade".
+
 
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
 
