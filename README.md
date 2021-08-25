@@ -39,7 +39,7 @@ A fase 3 está dividida desta forma:
 
 **SEMANA 1**
 
-- <b><a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/desafio1.js">Desafio final do módulo 1</a></b>.
+- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/desafio1.js">Desafio final do módulo 1</a>.
 
 - Dois exercícios simples sobre loops: <br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
@@ -49,7 +49,7 @@ A fase 3 está dividida desta forma:
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
-O projeto feito no decorrer das aulas e que foi finalizado com um desafio, teve como tema "Pokemons" e está nessa pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Semana2/projeto">Projeto</a>.
+O projeto feito no decorrer das aulas e que foi finalizado com um desafio, teve como tema "Pokemons" e está nessa pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto">Projeto</a>.
 
 Criamos 06 funções:
 
@@ -61,7 +61,7 @@ Criamos 06 funções:
 - batalhaPokemon: criar uma batalha entre dois pokemons, onde seriam comparados o tipo, fraqueza e resistência
 - curarPokemon: a criação dessa função foi o **desafio** da semana. Deveríamos construir uma nova rota para fazer uma requisição que curasse o pokemon, com poções de 20 HP (estabelecendo o limite de 100 HP, não podendo ultrapassar esse valor).
 
-Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana2/projeto/Pokemons.postman_collection.json">neste link</a>.
+Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto/Pokemons.postman_collection.json">neste link</a>.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
