@@ -18,11 +18,11 @@ Instruções dadas, acesse o bot que criei clicando <a href="https://prime.altub
 
 Com esse resultado final e a conclusão do módulo 2,  fui aprovada para seguir no curso e agora estamos na fase 3: <b>TO HERO!</b> 🦸‍♀️
 
-<h3>Fase 3 - To Hero </h3>
+<h2>Fase 3 - To Hero </h2>
 
 Nesta fase teremos uma imersão na área de desenvolvimento de software e aprenderemos sobre integração entre sistemas web, criaremos uma API e teremos à nossa disposição um conteúdo de programação avançado.
 
-Este módulo está dividido desta forma:
+A fase 3 está dividida desta forma:
 
 - <b>Módulo 3</b> - Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)
 
@@ -32,25 +32,24 @@ Este módulo está dividido desta forma:
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📓 A criação desse repositório foi feita a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
+📓 Esse repositório foi criado a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
 
-Criei pastas para diferenciar cada etapa deste módulo 3.
+<h2>Módulo 3</h2> 
+<h3>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h3> <br>
 
 **SEMANA 1**
 
-- <b><a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/desafio1.js">Desafio final do módulo 1</a></b>.
+- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/desafio1.js">Desafio final do módulo 1</a>.
 
 - Dois exercícios simples sobre loops: <br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br><br>
 
-------------------------------------------------------------------------------
-
 **SEMANA 2**
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
-O projeto feito no decorrer das aulas e que foi finalizado com um desafio, teve como tema "Pokemons" e está nessa pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Semana2/projeto">Projeto</a>.
+Parte do projeto foi feito no decorrer das aulas e no final houve um desafio, que está nesta pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto">Projeto Pokemon</a>.
 
 Criamos 06 funções:
 
@@ -62,7 +61,15 @@ Criamos 06 funções:
 - batalhaPokemon: criar uma batalha entre dois pokemons, onde seriam comparados o tipo, fraqueza e resistência
 - curarPokemon: a criação dessa função foi o **desafio** da semana. Deveríamos construir uma nova rota para fazer uma requisição que curasse o pokemon, com poções de 20 HP (estabelecendo o limite de 100 HP, não podendo ultrapassar esse valor).
 
-Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana2/projeto/Pokemons.postman_collection.json">neste link</a>.
+Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto/Pokemons.postman_collection.json">neste link</a>.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h2>Módulo 4</h2>
+<h3>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h3>
+
+Neste módulo, iniciamos tendo contato com o MySql e demos continuidade ao Projeto dos Pokemons, agora com um banco de dados "de verdade".
+
 
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
 
