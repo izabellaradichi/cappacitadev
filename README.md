@@ -45,8 +45,6 @@ A fase 3 está dividida desta forma:
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br><br>
 
-------------------------------------------------------------------------------
-
 **SEMANA 2**
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
