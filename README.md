@@ -37,8 +37,9 @@ A fase 3 está dividida desta forma:
 <h2>Módulo 3</h2> 
 <h3>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h3> <br>
 
-**Exercícios**
-- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios/desafio1.js">Desafio final do módulo 1</a>.
+**Semana 1**
+
+- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exerc%C3%ADcios/desafio1.js">Desafio final do módulo 1</a>.
 
 - Dois exercícios simples sobre loops: <br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
