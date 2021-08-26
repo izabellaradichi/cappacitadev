@@ -39,11 +39,11 @@ A fase 3 está dividida desta forma:
 
 **Semana 1**
 
-- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exerc%C3%ADcios/desafio1.js">Desafio final do módulo 1</a>.
+- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/desafio1.js">Desafio final do módulo 1</a>.
 
 - Dois exercícios simples sobre loops: <br>
-		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
-		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br><br>
+		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
+		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br><br>
 
 **SEMANA 2**
 
