@@ -70,7 +70,7 @@ Além das funções, criamos uma Collection no Postman com as requisições que 
 
 Neste módulo, iniciamos tendo contato com o MySql e demos continuidade ao Projeto dos Pokemons, agora com um banco de dados "de verdade".
 
-A medida que as aulas forem acontecendo, irei postando a evolução do Projeto dos Pokemons, agora com o nome de <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%204">Projeto Pokemon Módulo 4</a>.
+A medida que as aulas forem acontecendo, postarei a evolução do Projeto dos Pokemons, agora com o nome de <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%204">Projeto Pokemon Módulo 4</a>.
 
 
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
