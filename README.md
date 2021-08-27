@@ -68,10 +68,13 @@ Além das funções, criamos uma Collection no Postman com as requisições que 
 <h2>Módulo 4</h2>
 <h3>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h3>
 
-Neste módulo, iniciamos tendo contato com o MySql e demos continuidade ao Projeto dos Pokemons, agora com um banco de dados "de verdade".
+Neste módulo, iniciamos tendo contato com o MySql e aprendemos a criar, inserir, consultar, atualizar e remover dados. Além disso, demos continuidade à utilização do postman para enriquecer o projeto iniciado no Módulo anterior: a API dos Pokemons.
 
-A medida que as aulas forem acontecendo, postarei a evolução do Projeto dos Pokemons, agora com o nome de <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%204">Projeto Pokemon Módulo 4</a>.
+A API criada no módulo anterior ficou mais robusta com a conexão com o banco de dados e pudemos aprender sobre várias coisas, manuseamos o MySql Workbench, usamos o knex, e vimos como funciona a "mágica" de criar uma tabela no banco de dados.
 
+O projeto final do módulo está neste link: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%204">Projeto Pokemon Módulo 4</a>.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
 
