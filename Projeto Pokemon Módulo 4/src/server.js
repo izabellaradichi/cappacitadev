@@ -33,16 +33,8 @@ app.put('/pokemons/:id', async (req, res) => {
     res.send(pokemon)
 })
 
-app.delete('/pokemons/:id', (req, res) => {
-   res.send(dataBase.deletarPokemon(req.params.id))
-})
-
-app.post('/batalha', (req, res) => {
-    res.send(dataBase.batalhaPokemon(req.body.id1, req.body.id2))
-})
-
-app.post('/curar', (req, res) => {
-    res.send(dataBase.curarPokemon(req.body.id))
+app.delete('/pokemons/:id', async (req, res) => {
+   res.send(await dataBase.deletarPokemon(req.params.id))
 })
 
 app.listen(3003);
