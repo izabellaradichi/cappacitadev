@@ -37,19 +37,19 @@ A fase 3 está dividida desta forma:
 <h2>Módulo 3</h2> 
 <h3>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h3> <br>
 
-**SEMANA 1**
+**Semana 1**
 
-- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/desafio1.js">Desafio final do módulo 1</a>.
+- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/desafio1.js">Desafio final do módulo 1</a>.
 
 - Dois exercícios simples sobre loops: <br>
-		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
-		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Semana1/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br><br>
+		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
+		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br><br>
 
 **SEMANA 2**
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
-Parte do projeto foi feito no decorrer das aulas e no final houve um desafio, que está nesta pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto">Projeto Pokemon</a>.
+Parte do projeto foi feito no decorrer das aulas e no final houve um desafio, que está nesta pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%203">Projeto Pokemon Módulo 3</a>.
 
 Criamos 06 funções:
 
@@ -61,7 +61,7 @@ Criamos 06 funções:
 - batalhaPokemon: criar uma batalha entre dois pokemons, onde seriam comparados o tipo, fraqueza e resistência
 - curarPokemon: a criação dessa função foi o **desafio** da semana. Deveríamos construir uma nova rota para fazer uma requisição que curasse o pokemon, com poções de 20 HP (estabelecendo o limite de 100 HP, não podendo ultrapassar esse valor).
 
-Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto/Pokemons.postman_collection.json">neste link</a>.
+Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Projeto%20Pokemon%20M%C3%B3dulo%203/Pokemons.postman_collection.json">neste link</a>.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -69,6 +69,8 @@ Além das funções, criamos uma Collection no Postman com as requisições que 
 <h3>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h3>
 
 Neste módulo, iniciamos tendo contato com o MySql e demos continuidade ao Projeto dos Pokemons, agora com um banco de dados "de verdade".
+
+A medida que as aulas forem acontecendo, postarei a evolução do Projeto dos Pokemons, agora com o nome de <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%204">Projeto Pokemon Módulo 4</a>.
 
 
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
