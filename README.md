@@ -1,10 +1,10 @@
-<h2>Cappacitadev Edição 02 - Programação de IAs Conversacionais 🤖💬</h2>
+<h1>Cappacitadev Edição 02 - Programação de IAs Conversacionais 🤖💬</h1>
 
-Desde o início de junho/21 estou participando do Cappacitadev Edição 2, um curso de capacitação em Programação de IA Conversacional promovido pela <a href="https://www.linkedin.com/company/d1-smarkio/"> D1 | Smarkio</a>.
+Desde o início de junho/21 estou participando do Cappacitadev Edição 2, um curso de capacitação em Programação de IA Conversacional promovido pela <a href="https://www.linkedin.com/company/d1-smarkio/" target="_blank"> D1 | Smarkio</a>.
 
 Na primeira fase foram abordados conceitos sobre a lógica de programação de uma forma geral, além de termos desenvolvido alguns exercícios. 
 
-No módulo 2, tivemos uma imersão completa com a criação de um assistente virtual através da plataforma ALTU, da D1 | Smarkio. Foi entregue a nós um <a href="https://lucid.app/lucidchart/5dafeeeb-338d-4988-90c5-c84ed50e8ecf/edit?shared=true&page=V.~yMaIeFDqt#">fluxo conversacional</a>, dividido em quatro partes. 
+No módulo 2, tivemos uma imersão completa com a criação de um assistente virtual através da plataforma ALTU, da D1 | Smarkio. Foi entregue a nós um <a href="https://lucid.app/lucidchart/5dafeeeb-338d-4988-90c5-c84ed50e8ecf/edit?shared=true&page=V.~yMaIeFDqt#" target="_blank">fluxo conversacional</a>, dividido em quatro partes. 
 
 A partir deste fluxo, criamos um assistente virtual para a MiauMiau Cartões 🐈
 
@@ -14,7 +14,7 @@ Algumas instruções para testar o bot que criei:
 
 ➡️ Além da validação do CPF existe também a validação de CEP, portanto, podem testar com CEPs reais 😍
 
-Instruções dadas, acesse o bot que criei clicando <a href="https://prime.altubots.com/chats/cappacita/38a5fe3abbf07af9a39d4aa0e33327bf/index.html">neste link</a>.
+Instruções dadas, acesse o bot que criei clicando <a href="https://prime.altubots.com/chats/cappacita/38a5fe3abbf07af9a39d4aa0e33327bf/index.html" target="_blank">neste link</a>.
 
 Com esse resultado final e a conclusão do módulo 2,  fui aprovada para seguir no curso e agora estamos na fase 3: <b>TO HERO!</b> 🦸‍♀️
 
@@ -39,17 +39,17 @@ A fase 3 está dividida desta forma:
 
 **Semana 1**
 
-- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/desafio1.js">Desafio final do módulo 1</a>.
+- <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/desafio1.js" target="_blank">Desafio final do módulo 1</a>.
 
 - Dois exercícios simples sobre loops: <br>
-		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
-		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br>
+		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/exercicioloop.js" target="_blank">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
+		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/looppares.js" target="_blank">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br>
 
 **Semana 2**
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
-Parte do projeto foi feito no decorrer das aulas e no final houve um desafio, que está nesta pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%203">Projeto Pokemon Módulo 3</a>.
+Parte do projeto foi feito no decorrer das aulas e no final houve um desafio, que está nesta pasta: <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Projeto%20Pokemon%20M%C3%B3dulo%203" target="_blank">Projeto Pokemon Módulo 3</a>.
 
 Criamos 06 funções:
 
@@ -76,5 +76,23 @@ O projeto final do módulo está neste link: <a href="https://github.com/izabell
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h3>Módulo 5</h3> 
+<h4>Complementando seu Projeto (Frontend, Cloud)</h4> <br>
+
+O módulo 5 começou com a introdução a HTML, mostrando conceitos e tags que posteriormente serão bem úteis. Apesar de eu já conhecer esse assunto de outros cursos, é sempre bom relembrar!
+
+Nas primeiras aulas, o professor apresentou a configuração do ambiente e a estrutura básica do HTML5.
+
+Estou assistindo as aulas e até o momento já estudamos os seguintes elementos:
+
+• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-02/aula-02.html" target="_blank">Tags estruturais, Cabeçalho, Parágrafo e Comentários</a>
+• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/hiperlinks.html" target="_blank">Hiperlinks</a>
+• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/imagens.html" target="_blank">Imagens
+• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/listas.html" target="_blank">Listas
+• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/tabelas.html" target="_blank">Tabelas
+
+
+	
+	
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
 
