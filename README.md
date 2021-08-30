@@ -34,9 +34,9 @@ A fase 3 está dividida desta forma:
 
 📓 Esse repositório foi criado a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
 
-<h5>Módulo 3: Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h5>
+<h4>Módulo 3: Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h4>
 
-<u>Semana 1</u>
+<b>Semana 1</b>
 
 - <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/desafio1.js">Desafio final do módulo 1</a>.
 
@@ -44,7 +44,7 @@ A fase 3 está dividida desta forma:
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br>
 
-<u>Semana 2</u>
+<b>Semana 2</b>
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
@@ -64,7 +64,7 @@ Além das funções, criamos uma Collection no Postman com as requisições que 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h5>Módulo 4: Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h5>
+<h4>Módulo 4: Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h4>
 
 Neste módulo, iniciamos tendo contato com o MySql e aprendemos a criar, inserir, consultar, atualizar e remover dados. Além disso, demos continuidade à utilização do postman para enriquecer o projeto iniciado no Módulo anterior: a API dos Pokemons.
 
@@ -74,7 +74,7 @@ O projeto final do módulo está neste link: <a href="https://github.com/izabell
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h5>Módulo 5: Complementando seu Projeto (Frontend, Cloud)</h5> 
+<h4>Módulo 5: Complementando seu Projeto (Frontend, Cloud)</h4> 
 
 O módulo 5 começou com a introdução a HTML, mostrando conceitos e tags que posteriormente serão bem úteis. Apesar de eu já conhecer esse assunto de outros cursos, é sempre bom relembrar!
 
