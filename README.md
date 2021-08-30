@@ -85,11 +85,11 @@ Nas primeiras aulas, o professor apresentou a configuração do ambiente e a est
 
 Estou assistindo as aulas e até o momento já estudamos os seguintes elementos:
 
-• Na aula 02, foram apresentados alguns conceitos básicos: <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-02/aula-02.html" target="_blank">Tags estruturais, Cabeçalho, Parágrafo e Comentários</a><br>
-• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/hiperlinks.html" target="_blank">Hiperlinks</a><br>
-• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/imagens.html" target="_blank">Imagens<br>
-• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/listas.html" target="_blank">Listas<br>
-• <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/tabelas.html" target="_blank">Tabelas<br>
+<ul>Na aula 02, foram apresentados alguns conceitos básicos: <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-02/aula-02.html" target="_blank">Tags estruturais, Cabeçalho, Parágrafo e Comentários</a><br><ul>
+<ul> <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/hiperlinks.html" target="_blank">Hiperlinks</a><br></ul>
+<ul><a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/imagens.html" target="_blank">Imagens<br></ul>
+<ul><a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/listas.html" target="_blank">Listas<br></ul>
+<ul><a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/tabelas.html" target="_blank">Tabelas<br></ul>
 
 
 	
