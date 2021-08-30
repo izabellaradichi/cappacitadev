@@ -36,7 +36,7 @@ A fase 3 está dividida desta forma:
 
 <h4>Módulo 3: Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h4>
 
-<b>Semana 1</b>
+<b>_Semana 1_</b>
 
 - <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/desafio1.js">Desafio final do módulo 1</a>.
 
@@ -44,7 +44,7 @@ A fase 3 está dividida desta forma:
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br>
 
-<b>Semana 2</b>
+<b>_Semana 2_</b>
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
@@ -82,9 +82,9 @@ Nas primeiras aulas, o professor apresentou a configuração do ambiente e a est
 
 Estou assistindo as aulas e até o momento já estudamos os seguintes elementos:
 
-• Na aula 02, foram apresentados alguns conceitos básicos: <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-02/aula-02.html" target="_blank">Tags estruturais, Cabeçalho, Parágrafo e Comentários</a><br>
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-02">aula 02</a>, foram apresentados alguns conceitos básicos: <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-02/aula-02.html" target="_blank">Tags estruturais, Cabeçalho, Parágrafo e Comentários</a><br>
 
-• Na aula 03, vimos sobre: 
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-03">aula 03</a>, vimos sobre: 
 <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/hiperlinks.html" target="_blank">Hiperlinks</a>,
 <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/imagens.html" target="_blank">Imagens</a>, 
 <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/listas.html" target="_blank">Listas</a>, e 
