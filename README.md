@@ -77,7 +77,7 @@ O projeto final do módulo está neste link: <a href="https://github.com/izabell
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h4>Módulo 5</h4> 
-<h5>Complementando seu Projeto (Frontend, Cloud)</h5> <br>
+<h5>Complementando seu Projeto (Frontend, Cloud)</h5>
 
 O módulo 5 começou com a introdução a HTML, mostrando conceitos e tags que posteriormente serão bem úteis. Apesar de eu já conhecer esse assunto de outros cursos, é sempre bom relembrar!
 
