@@ -36,7 +36,7 @@ A fase 3 está dividida desta forma:
 
 <h5>Módulo 3: Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h5>
 
-<b>Semana 1</b>
+<u>Semana 1</u>
 
 - <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/desafio1.js">Desafio final do módulo 1</a>.
 
@@ -44,7 +44,7 @@ A fase 3 está dividida desta forma:
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/exercicioloop.js">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercicios-iniciais/looppares.js">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br>
 
-<b>Semana 2</b>
+<u>Semana 2</u>
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
