@@ -34,8 +34,8 @@ A fase 3 está dividida desta forma:
 
 📓 Esse repositório foi criado a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
 
-<h3>Módulo 3</h3> 
-<h4>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h4> <br>
+<h4>Módulo 3</h4> 
+<h5>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h5> <br>
 
 **Semana 1**
 
@@ -65,8 +65,8 @@ Além das funções, criamos uma Collection no Postman com as requisições que 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Módulo 4</h3>
-<h4>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h4>
+<h4>Módulo 4</h4>
+<h5>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h5>
 
 Neste módulo, iniciamos tendo contato com o MySql e aprendemos a criar, inserir, consultar, atualizar e remover dados. Além disso, demos continuidade à utilização do postman para enriquecer o projeto iniciado no Módulo anterior: a API dos Pokemons.
 
@@ -76,8 +76,8 @@ O projeto final do módulo está neste link: <a href="https://github.com/izabell
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3>Módulo 5</h3> 
-<h4>Complementando seu Projeto (Frontend, Cloud)</h4> <br>
+<h4>Módulo 5</h4> 
+<h5>Complementando seu Projeto (Frontend, Cloud)</h5> <br>
 
 O módulo 5 começou com a introdução a HTML, mostrando conceitos e tags que posteriormente serão bem úteis. Apesar de eu já conhecer esse assunto de outros cursos, é sempre bom relembrar!
 
