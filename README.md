@@ -34,10 +34,9 @@ A fase 3 está dividida desta forma:
 
 📓 Esse repositório foi criado a partir de um exercício proposto no início do módulo 3, onde deveríamos criar uma conta, criar um repositório e escolher três códigos desenvolvidos durante as primeiras aulas para commitar no repositório criado.
 
-<h4>Módulo 3</h4> 
-<h5>Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h5> <br>
+<h5>Módulo 3: Criando seu Primeiro Projeto (javascript, github, nodejs, ES6)</h5>
 
-**Semana 1**
+<b>Semana 1</b>
 
 - <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/desafio1.js" target="_blank">Desafio final do módulo 1</a>.
 
@@ -45,7 +44,7 @@ A fase 3 está dividida desta forma:
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/exercicioloop.js" target="_blank">Exercício 1 ➰</a>: exibir o resultado da multiplicação por 2, dos números de 1 a 5<br>
 		<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Exercícios/looppares.js" target="_blank">Exercício 2 ➰</a> exibir os números pares existentes de 1 a 10<br>
 
-**Semana 2**
+<b>Semana 2</b>
 
 Na Semana 2, nosso foco foi aprender sobre o VSCode, NodeJS e seus módulos, Postman. 
 
@@ -59,14 +58,13 @@ Criamos 06 funções:
 - atualizarPokemon: atualizar alguma informação sobre o pokemon, por exemplo, quando algum evoluísse rs
 - deletarPokemon: deletar algum pokemon a partir do id
 - batalhaPokemon: criar uma batalha entre dois pokemons, onde seriam comparados o tipo, fraqueza e resistência
-- curarPokemon: a criação dessa função foi o **desafio** da semana. Deveríamos construir uma nova rota para fazer uma requisição que curasse o pokemon, com poções de 20 HP (estabelecendo o limite de 100 HP, não podendo ultrapassar esse valor).
+- curarPokemon: a criação dessa função foi o <b>desafio</b> da semana. Deveríamos construir uma nova rota para fazer uma requisição que curasse o pokemon, com poções de 20 HP (estabelecendo o limite de 100 HP, não podendo ultrapassar esse valor).
 
 Além das funções, criamos uma Collection no Postman com as requisições que está <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Projeto%20Pokemon%20M%C3%B3dulo%203/Pokemons.postman_collection.json">neste link</a>.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h4>Módulo 4</h4>
-<h5>Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h5>
+<h5>Módulo 4: Criando sua Primeira API (JEST/JOI, MySQL, RestAPI)</h5>
 
 Neste módulo, iniciamos tendo contato com o MySql e aprendemos a criar, inserir, consultar, atualizar e remover dados. Além disso, demos continuidade à utilização do postman para enriquecer o projeto iniciado no Módulo anterior: a API dos Pokemons.
 
@@ -76,8 +74,7 @@ O projeto final do módulo está neste link: <a href="https://github.com/izabell
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h4>Módulo 5</h4> 
-<h5>Complementando seu Projeto (Frontend, Cloud)</h5>
+<h5>Módulo 5: Complementando seu Projeto (Frontend, Cloud)</h5> 
 
 O módulo 5 começou com a introdução a HTML, mostrando conceitos e tags que posteriormente serão bem úteis. Apesar de eu já conhecer esse assunto de outros cursos, é sempre bom relembrar!
 
@@ -87,10 +84,14 @@ Estou assistindo as aulas e até o momento já estudamos os seguintes elementos:
 
 • Na aula 02, foram apresentados alguns conceitos básicos: <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-02/aula-02.html" target="_blank">Tags estruturais, Cabeçalho, Parágrafo e Comentários</a><br>
 
-• Na aula 03, vimos sobre: <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/hiperlinks.html" target="_blank">Hiperlinks</a>, <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/imagens.html" target="_blank">Imagens</a>, <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/listas.html" target="_blank">Listas</a>, e <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/tabelas.html" target="_blank">Tabelas</a>.
+• Na aula 03, vimos sobre: 
+<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/hiperlinks.html" target="_blank">Hiperlinks</a>,
+<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/imagens.html" target="_blank">Imagens</a>, 
+<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/listas.html" target="_blank">Listas</a>, e 
+<a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/tabelas.html" target="_blank">Tabelas</a>.
 
 
 	
-	
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
 
