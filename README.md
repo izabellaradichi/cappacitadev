@@ -90,9 +90,11 @@ Estou assistindo as aulas e até o momento já estudamos os seguintes elementos:
 <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/listas.html" target="_blank">Listas</a>, e 
 <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-03/tabelas.html" target="_blank">Tabelas</a>.
 
-• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-04">aula 04</a>, vimos sobre <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-04/aula-04.html" target="_blank">Block, inline, atributos globais e estrutura semântica.</a><br>
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-04">aula 04</a>, vimos sobre as tags block, inline, atributos globais e estrutura semântica.</a><br>
 
-• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-05">aula 05</a>, vimos sobre a utilização das tags <a href="https://github.com/izabellaradichi/cappacitadev/blob/main/Modulo5/aula-04/aula-04.html" target="_blank">nav, main, section e article.</a><br>
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-05">aula 05</a>, vimos sobre a utilização das tags nav, main, section e article.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-06">aula 06</a>, vimos sobre a utilização das tags aside, figure, figcaption e img.</a><br>
 	
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
