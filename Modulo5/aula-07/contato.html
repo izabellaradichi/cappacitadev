@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+</head>
+<body>
+    <header>
+        <h1>Fale conosco</h1>
+        <p>Deixe suas dúvidas ou sugestões.</p>
+    </header>  
+
+    <!-- nav>(ul>(li>a)*3)+div>a -->
+    <nav>
+        <ul>
+            <li><a href="./aula-05.html" target="_blank">Home</a></li>
+            <li><a href="https://docs.altu.com.br" target="_blank">ALTU</a></li>
+            <li><a href="./contato.html" target="_blank">Contato</a></li>
+        </ul>
+        <div class="usuario"><a href="">Usuário</div></a>
+    </nav>   
+
+    <section>
+        <main>
+            <form>
+                <fieldset>
+                    <legend>Dados pessoais</legend>
+
+                    <label for="nome">Nome: </label>
+                    <input id="nome" type="text">
+
+                    <label for="sobrenome">Sobrenome: </label>
+                    <input id="sobrenome" type="text">
+
+                    <label for="email">E-mail: </label>
+                    <input id="email" type="email">
+
+
+                    <legend>Preferência de contato: </legend>
+
+                    <label for="preferencia_contato">SMS</label>
+                    <input type="radio" id="sms" name="preferencia_contato" value="sms"> 
+                    
+                    <label>E-mail</label>
+                    <input type="radio" id="email" name="preferencia_contato" value="email"> 
+                    
+                    <label>Ligação</label>
+                    <input type="radio" id="ligacao" name="preferencia_contato" value="ligacao"> 
+                    
+
+                </fieldset>
+
+            
+
+
+            </form>
+        </main>
+    </section>  
+
+</body>
+</html>
