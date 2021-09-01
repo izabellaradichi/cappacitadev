@@ -95,6 +95,8 @@ Estou assistindo as aulas e até o momento já estudamos os seguintes elementos:
 • Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-05">aula 05</a>, vimos sobre a utilização das tags nav, main, section e article.</a><br>
 
 • Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-06">aula 06</a>, vimos sobre a utilização das tags aside, figure, figcaption e img.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-07">aula 07</a>, vimos sobre a tag footer e um pouco sobre form, input e label.</a><br>
 	
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
