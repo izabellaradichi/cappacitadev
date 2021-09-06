@@ -97,7 +97,22 @@ Estou assistindo as aulas e até o momento já estudamos os seguintes elementos:
 • Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-06">aula 06</a>, vimos sobre a utilização das tags aside, figure, figcaption e img.</a><br>
 
 • Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-07">aula 07</a>, vimos sobre a tag footer e um pouco sobre form, input e label.</a><br>
-	
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-08">aula 08</a>, vimos sobre as tags Aside, figure, figcaption e img.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-09">aula 09</a>, vimos sobre as tags Footer, form, input e label.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-10">aula 10</a>, vimos sobre as tags Textarea, section, footer e os métodos HTTP.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-11">aula 11</a>, começamos a ver sobre CSS.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-12">aula 12</a>, continuamos aprendendo sobre CSS com a inclusão de comentários, alteração cores e aplicação de margens.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-13">aula 13</a>, continuamos aprendendo sobre CSS com os conceitos de padding, width, height, float, display e visibility.</a><br>
+
+• Na <a href="https://github.com/izabellaradichi/cappacitadev/tree/main/Modulo5/aula-14">aula 14</a>, ainda em CSS, vimos sobre a aplicação do flex-direction, flex-wrap e flex-flow.</a><br>
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Obs: Imagem de capa obtida no material curso, de autoria da Smarkio | D1.
 
