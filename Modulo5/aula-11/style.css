@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/* valor padrão da div */
+.div1, .div2, .div3,.div4, .div5{
+    background-color: blue;
+    float: left;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+}
+
+div{
+    
+    background-color: orangered;
+} 
+
+.div1{
+    background-color: red;
+}
+
+.div2{
+    visibility: visible;
+    background-color: green;
+}
+
+.div3{
+    background-color: blueviolet;
+}
+
+.div4{
+    background-color: aqua;
+}
+
+.div5{
+    background-color: yellow;
+}
+
+

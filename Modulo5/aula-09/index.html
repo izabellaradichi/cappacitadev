@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+    </style>
+    <style>
+        /* -combinador por seletor herança- 
+        todo filho é um herdeiro, nem todo herdeiro é um filho */
+        div p{ 
+            background-color: yellow;
+        }*/
+
+        /* -combinador por seletor filho- 
+        todo filho é um herdeiro, nem todo herdeiro é um filho */
+        div>p{ 
+            background-color: yellow;
+        }
+
+        /* -combinador por seletor adjacente-  */
+        div+p{
+            background-color: yellow;
+        }
+
+        /* -combinador por seletor geral-   */
+        div~p{
+            background-color: yellow;
+        }
+
+
+        
+    </style>
+</head>
+
+<body>
+    <h2>Seletores</h2>
+    <p>Parágrafo 1. Fora da div.</p>
+    <div>
+        <p>Parágrafo 2. Dentro da div.</p>
+        <p>Parágrafo 3. Dentro da div.</p>
+        <section>
+            <p>Parágrafo 4. Dentro da div.</p>
+        </section>
+        <p>Parágrafo 5. Dentro da div.</p>
+    </div>
+
+    <p>Parágrafo 6. Fora da div.</p>
+    <p>Parágrafo 7. Fora da div.</p>
+
+    <div>
+        <p>Parágrafo 8. Dentro da div.</p>
+    </div>
+
+    <p>Parágrafo 9. Fora da div.</p>
+
+</body>
+
+</html>
