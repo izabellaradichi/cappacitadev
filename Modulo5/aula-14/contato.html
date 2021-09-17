@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Contato</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header id="header-top">
+            <h1>Fale conosco</h1>
+            <p>Deixe suas dúvidas ou sugestões.</p>
+        </header>
+
+        <!-- nav>(ul>(li>a)*3)+div>a -->
+        <nav id="nav-top">
+            <ul>
+                <li>
+                    <a href="./aula-08.html" target="_blank">Home</a>
+                </li>
+                <li>
+                    <a href="https://docs.altu.com.br" target="_blank">ALTU</a>
+                </li>
+                <li>
+                    <a href="./contato.html" target="_blank">Contato</a>
+                </li>
+            </ul>
+            <div class="usuario">
+                <a href="">Usuário</div>
+            </a>
+        </nav>
+
+        <section class="section-form">
+            <main>
+                <form method="GET" action="./get_servidor.php">
+                    <fieldset>
+                        <legend>Dados pessoais</legend>
+                        <label class="preferencia-contato" for="nome">Nome: </label>
+                        <input class="margem-opcoes" id="nome" name="nome" type="text">
+
+                        <label for="sobrenome">Sobrenome: </label>
+                        <input id="sobrenome" name="sobrenome" type="text">
+
+                        <label for="email">E-mail: </label>
+                        <input id="email" name="email" type="email">
+
+                        <legend class="preferencia-contato">Preferência de contato: </legend>
+                        <label for="preferencia_contato">SMS</label>
+                        <input class="preferencia" type="radio" id="sms" name="preferencia_contato" value="sms">
+
+                        <label>E-mail</label>
+                        <input class="preferencia" type="radio" id="email" name="preferencia_contato" value="email">
+
+                        <label>Ligação</label>
+                        <input class="preferencia" type="radio" id="ligacao" name="preferencia_contato" value="ligacao">
+                    </fieldset>
+
+                    <fieldset>
+                        <legend>Questionário</legend>
+                        <label for="dev">Escolha uma opção:</label>
+                        <select id="dev" name="dev" size="1">
+                            <option value="backend">Back-end</option>
+                            <option value="frontend">Front-end</option>
+                            <option value="fullstack">Fullstack</option>
+                            <option value="devops">Dev-Ops</option>
+                        </select>
+                        <textarea name="textarea" cols="10" rows="10"></textarea>
+                        <input type="submit" value="Enviar formulário">
+                    </fieldset>
+
+                    <footer>
+                        <!-- figure>img+figcaption -->
+                        <figure>
+                            <img class="logo" src="cappacita.jpg" alt="Cappacita Dev">
+                            <figcaption>Cappacita Dev 2021</figcaption>
+                        </figure>
+                        <!--section>ul>(li>a)*3 -->
+                        <section>
+                            <ul>
+                                <li><a href="">Link 1</a></li>
+                                <li><a href="">Link 2</a></li>
+                                <li><a href="">Link 3</a></li>
+                            </ul>
+                        </section>
+                        <section>
+                            <ul>
+                                <li><a href="">Úteis 1</a></li>
+                                <li><a href="">Úteis 2</a></li>
+                                <li><a href="">Úteis 3</a></li>
+                            </ul>
+                        </section>
+                        <section>
+                            <ul>
+                                <li><a href="">Link 1</a></li>
+                                <li><a href="">Link 2</a></li>
+                                <li><a href="">Link 3</a></li>
+                            </ul>
+                        </section>
+                    </footer>
+
+                   
+                </form>
+            </main>
+        </section>
+    </body>
+</html>

@@ -1,0 +1,36 @@
+.flex-container{
+    background-color: cadetblue;
+    display: flex;
+    flex-flow: row wrap;
+    height: 500px;
+    justify-content: center;
+    /* align-items: baseline; */
+    /* align-content: space-around; */
+}
+
+.flex-itens{
+    background-color: chocolate;
+    margin: 5px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+/* .div1 {
+    font-size: 15px;
+}
+
+.div2 {
+    font-size: 20px;
+}
+
+.div3 {
+    font-size: 25px;
+}
+
+.div4 {
+    font-size: 30px;
+}
+
+.div5 {
+    font-size: 35px;
+} */
